@@ -32,11 +32,11 @@
 //     age = Number(age);
 
 //     if (isNaN(age)) {
-//       throw new Error("You entered not a number!");
+//       throw new TypeError("You entered not a number!");
 //     }
 
 //     if (age < 14) {
-//       throw new Error("You are too young!");
+//       throw new RangeError("You are too young!");
 //     }
 
 //     alert("Access granted. You can watch the movie!");

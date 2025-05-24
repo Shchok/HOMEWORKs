@@ -21,6 +21,7 @@
 //   } else {
 //     console.log(`${i} is odd`);
 //   }
+//result - (x % 2 === 0) ? "it is even" : "is odd";
 // }
 //task3
 // function randArray(k) {
